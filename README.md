@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![banner picture 1](https://github.com/yucedemirayak/ElectronJs-Screen-Recorder/blob/master/banner/banner1.png)
+![banner picture 1](https://github.com/yucedemirayak/Taskify-Typscript-React-Drag-Drop/blob/master/banners/taskify.jpeg)
 
 ## Available Scripts
 
